@@ -1,7 +1,7 @@
 # bootcamp-XIX-group-3
 ## An introduction to git and github
 
-![git](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/03/1458791372git.png)
+<img style="width: 350px" alt="Git Logo" src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/03/1458791372git.png">
 
 Git is a [free and open source](https://git-scm.com/about/free-and-open-source) distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
