@@ -46,6 +46,21 @@ __Fetch and merge changes__
 $ git pull
 ```
 
+__Tell git who you are__
+```bash
+$ git config --global user.name "Star Delta"
+$ git config --global user.email stardelat1@mail.com
+```
+
+__Create a new branch and switch to it__
+```bash
+$ git checkout -b <filename>
+```
+
+__Switch from one branch to another__
+```bash
+$ git checkout branch <branch-name>
+```
 
 [github](http://github.com)
 
@@ -54,3 +69,12 @@ $ git pull
 - [Try Git](http://try.github.io)
 - [Git Website](https://git-scm.com/)
 
+
+##Oladeji femi's changes
+- Femi is learning
+- [git](http://git-scm.com) at [andela](http://andela.com)
+    - it's getting interesting
+
+## Understanding Markdown
+
+- [Git-Guide](https://guides.github.com/features/mastering-markdown/)
