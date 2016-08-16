@@ -46,6 +46,19 @@ $ git push origin master
 - [Git Website](https://git-scm.com/)
 
 
+<<<<<<< HEAD
+##Oladeji femi's changes
+- Femi is learning
+- [git](http://git-scm.com) at [andela](http://andela.com)
+    - it's getting interesting
+=======
+## Understanding Markdown
+
+- [Git-Guide](https://guides.github.com/features/mastering-markdown/)
+
+
+>>>>>>> b4c864b5e8ac3b0cf8d0f37ef9289e0fe6fe6699
+
 ##Oladeji femi's changes
 - Femi is learning
 - [git](http://git-scm.com) at [andela](http://andela.com)
