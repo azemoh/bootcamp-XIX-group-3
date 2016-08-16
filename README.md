@@ -1,7 +1,7 @@
 # bootcamp-XIX-group-3
 ## An introduction to git and github
 
-<img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/03/1458791372git.png" alt="Git Logo" style="width: 320px">
+<img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/03/1458791372git.png" alt="Git Logo" width="320">
 
 Git is a [free and open source](https://git-scm.com/about/free-and-open-source) distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
@@ -36,6 +36,16 @@ $ git push origin master
 
 ### Additional git Commands
 
+__Creating a new branch__
+```bash
+$ git branch [branch name]
+```
+
+__Fetch and merge changes__
+```bash
+$ git pull
+```
+
 __Tell git who you are__
 ```bash
 $ git config --global user.name "Star Delta"
@@ -60,20 +70,11 @@ $ git checkout branch <branch-name>
 - [Git Website](https://git-scm.com/)
 
 
-<<<<<<< HEAD
 ##Oladeji femi's changes
 - Femi is learning
 - [git](http://git-scm.com) at [andela](http://andela.com)
     - it's getting interesting
-=======
+
 ## Understanding Markdown
 
 - [Git-Guide](https://guides.github.com/features/mastering-markdown/)
-
-
->>>>>>> b4c864b5e8ac3b0cf8d0f37ef9289e0fe6fe6699
-
-##Oladeji femi's changes
-- Femi is learning
-- [git](http://git-scm.com) at [andela](http://andela.com)
-    - it's getting interesting

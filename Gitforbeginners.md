@@ -12,7 +12,7 @@ Ready to Roll
 ###  - Create and checkout a new branch 
 
 ```bash
-$git checkout -b <bname>
+git checkout -b <bname>
 ```
 
 *Step 2*: 
