@@ -69,6 +69,8 @@ $ git checkout branch <branch-name>
 - [Try Git](http://try.github.io)
 - [Git Website](https://git-scm.com/)
 
+### You may like this [Forecast.ng](http://forecast.ng)
+
 
 ##Oladeji femi's changes
 - Femi is learning
