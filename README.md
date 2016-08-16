@@ -35,7 +35,16 @@ $ git push origin master
 ```
 
 ### Additional git Commands
-## TODO
+
+__Creating a new branch__
+```bash
+$ git branch [branch name]
+```
+
+__Fetch and merge changes__
+```bash
+$ git pull
+```
 
 
 [github](http://github.com)
