@@ -45,3 +45,9 @@ $ git push origin master
 - [Try Git](http://try.github.io)
 - [Git Website](https://git-scm.com/)
 
+
+## Understanding Markdown
+
+- [Git-Guide](https://guides.github.com/features/mastering-markdown/)
+
+
