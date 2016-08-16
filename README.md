@@ -38,8 +38,8 @@ $ git push origin master
 
 __Tell git who you are__
 ```bash
-$ git config --global user.name "Sylvester Emeshili"
-$ git config --global user.email emeshilisylvester@gmail.com
+$ git config --global user.name "Star Delta"
+$ git config --global user.email stardelat1@mail.com
 ```
 
 __Create a new branch and switch to it__
