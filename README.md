@@ -45,3 +45,8 @@ $ git push origin master
 - [Try Git](http://try.github.io)
 - [Git Website](https://git-scm.com/)
 
+
+##Oladeji femi's changes
+- Femi is learning
+- [git](http://git-scm.com) at [andela](http://andela.com)
+    - it's getting interesting
