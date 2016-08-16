@@ -21,7 +21,7 @@ $git checkout -b <bname>
 Pull files from the master to update your copy of files. 
 Do some good work on the files you retrived from your master. 
 Remember to commit your changes. 
-Now, you are done race to Step 3. 
+Now, you are done,race to Step 3. 
 
 *Step 3*: 
 
