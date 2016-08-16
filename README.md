@@ -35,8 +35,22 @@ $ git push origin master
 ```
 
 ### Additional git Commands
-## TODO
 
+__Tell git who you are__
+```bash
+$ git config --global user.name "Sylvester Emeshili"
+$ git config --global user.email emeshilisylvester@gmail.com
+```
+
+__Create a new branch and switch to it__
+```bash
+$ git checkout -b <filename>
+```
+
+__Switch from one branch to another__
+```bash
+$ git checkout branch <branch-name>
+```
 
 [github](http://github.com)
 
